@@ -1,7 +1,7 @@
 # ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ sᴇɪᴊūʀō 👋
 
 [![Website](https://img.shields.io/website?label=sploitech.com&style=for-the-badge&url=https%3A%2F%2Fsploitech.com)](https://sploitech.com)
-[![Website](https://img.shields.io/website?label=enigmacord.com&style=for-the-badge&url=https%3A%2F%2Fenigmacord.com)](https://enigmacord.com)
+[![Website](https://img.shields.io/website?label=enigmacord.com&style=for-the-badge&url=https%3A%2F%2Fenigmacord.com)](https://anyabot.com)
 
 ## 🎓 ɪ'ᴍ ᴀ sᴛᴜᴅᴇɴᴛ & ᴅᴇᴠᴇʟᴏᴘᴇʀ!!
 
