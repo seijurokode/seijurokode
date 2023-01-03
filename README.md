@@ -30,6 +30,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://ubuntu.com/#gh-dark-mode-only)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
-
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/)
 
 <br />
