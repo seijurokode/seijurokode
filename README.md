@@ -11,8 +11,8 @@
 
 ### 🔗 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 
-[![website](./img/globe-light.svg)](https://sploitech.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sploitech.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://seijurokode.net/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://seijurokode.net/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/seijuro-kode/#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/seijuro-kode/#gh-dark-mode-only)
